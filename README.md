@@ -2,10 +2,9 @@
 # 👋 Hi, I’m @denielden
 ### Graphic & Web designer, Web developer and Brand consultant
 
-- 🔥 I develop unique Brand, usable Websites and I help you use effective designs
-- 👀 I’m interested in growing and learning new interesting Skills and becoming an experienced **FrontEnd Developer**
-- 🌱 I’m currently learning **React, Webpack and MySQL**
-- 💞️ I’m looking to collaborate on creative and innovative website development
+- 🔥 I develop usable websites, unique brands and effective designs
+- 👀 I’m interested in growing and learning new Skills for becoming an experienced **FrontEnd Developer**
+- 🌱 I’m currently learning **React and much more**
 
 
 ## Skills:
@@ -31,10 +30,13 @@
 #### Learning:
 <div align="left">  
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35">
-  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40">
+  <img alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35">
   <img alt="Webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="35">
-  <img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="35">
+  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35">
   <img alt="Less" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="40">
+  <img alt="Tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="35">  
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40">
+  <img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="35">
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35">
 </div>
 
