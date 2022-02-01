@@ -4,7 +4,8 @@
 
 - 🔥 I develop usable websites, unique brands and effective designs
 - 👀 I’m interested in growing and learning new Skills for becoming an experienced **FrontEnd Developer**
-- 🌱 I’m currently learning **React and much more**
+- 🌱 I’m currently learning **React, serverless database and much more**
+- 🍕 Pizza and coding lover 
 
 
 ## Skills:
@@ -36,6 +37,7 @@
   <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35">
   <img alt="Less" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="40">
   <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40">
+  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35">
   <img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="35">
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35">
 </div>
