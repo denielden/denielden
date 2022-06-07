@@ -58,3 +58,12 @@
 <a href="https://codepen.io/denielden/pens/public" target="_blank" rel="noopener noreferrer" title="CodePen">   
    <img alt="CodePen" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="45">
 </a>
+
+<a href="https://www.frontendmentor.io/profile/denielden" target="_blank" rel="noopener noreferrer" title="Frontend Mentor"> 
+  <img alt="Frontend Mentor" src="https://www.frontendmentor.io/static/images/logo-mobile.svg" width="45">
+</a>
+
+##
+<a href="https://www.paypal.com/donate/?hosted_button_id=EQELS5SZGJMEN" target="_blank" rel="noopener noreferrer" title="Support me: Pay me a coffee! Donate with PayPal">
+  <img alt="Support me: Pay me a coffee! Donate with PayPal" src="https://pics.paypal.com/00/s/Nzk5MjA2MjEtNjk2Ni00OGQyLTg0YmYtZTM1NTE2ZGFmOGUw/file.PNG" width="250">
+</a>
